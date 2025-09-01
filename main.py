@@ -19,4 +19,6 @@
 # replace AUTO XFMR WX266 panel - W.O. #C6MT200422
 # upgrade auto WX266 differential panel
 
-
+# some of the issues needs to be followed up with the relay resouece, 
+# we also need CATID items for all listed materials per relat equipments,
+# need the catID item for the center break switch, since it is not our typical catID item.
